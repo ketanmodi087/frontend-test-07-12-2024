@@ -1,0 +1,24 @@
+{
+  "name": "experteaze-template",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@emotion/react": "latest",
+    "@emotion/styled": "latest",
+    "@mui/material": "latest",
+    "axios": "^1.7.9",
+    "mobx": "latest",
+    "mobx-react": "latest",
+    "mobx-state-tree": "^7.0.0",
+    "next": "latest",
+    "prettier": "^3.3.3",
+    "react": "latest",
+    "react-dom": "latest",
+    "sass": "^1.82.0"
+  }
+}
